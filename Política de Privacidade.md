@@ -1,7 +1,7 @@
-# Política de Privacidade - GhostFire
+# Política de Privacidade - Athenior
 
 ## 1. Tipos de Dados Coletados
-O **GhostFire** coleta os seguintes dados:
+O **Athenior** coleta os seguintes dados:
 - IDs de usuários
 - IDs de servidores
 - IDs de canais
@@ -41,4 +41,4 @@ Para dúvidas ou preocupações relacionadas à privacidade, entre em contato at
 
 ---
 
-Esta Política de Privacidade foi elaborada para garantir transparência no uso dos dados e proteger a privacidade dos usuários do **GhostFire**. Ao utilizar o bot, você concorda com os termos aqui descritos.
+Esta Política de Privacidade foi elaborada para garantir transparência no uso dos dados e proteger a privacidade dos usuários do **Athenior**. Ao utilizar o bot, você concorda com os termos aqui descritos.
